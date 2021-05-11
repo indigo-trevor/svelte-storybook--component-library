@@ -32,9 +32,12 @@ npm run storybook
 
 ## Staging site
 [Component Library Website](https://svelte-storybook-component-library.vercel.app)
-[Storybook]()
+[Storybook](https://svelte-storybook-storybook-deployment.vercel.app)
 
 ## Known issues
 - Toast notifications - Make more dynamic by consolodating into a single component with props handling the Toast type.
 - Work to resolve warnings in console.
+- Can really expand functionality through with callback and more robust props integration.
+- Would like to spend more time discovering how to utilize global SASS variables throughout all child components (without mult-loading them of course.)
+- Feel like I just scratched the service of both Svelte and Storybook.
 
