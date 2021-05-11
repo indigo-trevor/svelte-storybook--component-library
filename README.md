@@ -31,8 +31,9 @@ npm run storybook
 ```
 
 ## Staging site
-[Component Library Website](https://svelte-storybook-component-library.vercel.app)
-[Storybook](https://svelte-storybook-storybook-deployment.vercel.app)
+Component Library Website - https://svelte-storybook-component-library.vercel.app
+
+Storybook - https://svelte-storybook-storybook-deployment.vercel.app
 
 ## Known issues
 - Toast notifications - Make more dynamic by consolodating into a single component with props handling the Toast type.
