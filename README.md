@@ -31,7 +31,7 @@ npm run storybook
 ```
 
 ## Staging site
-[Component Library Website]()
+[Component Library Website](https://svelte-storybook-component-library.vercel.app)
 [Storybook]()
 
 ## Known issues
